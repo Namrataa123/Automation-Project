@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-02-17T07:26:26 PST" name="Default suite" finished-at="2023-02-17T07:26:30 PST" duration-ms="3678">
+    <groups>
+    </groups>
+    <test started-at="2023-02-17T07:26:26 PST" name="Default test" finished-at="2023-02-17T07:26:30 PST" duration-ms="3678">
+      <class name="com.gorestapi.com.putandpatch">
+        <test-method signature="updatecustomer()[pri:0, instance:com.gorestapi.com.putandpatch@16a0ee18]" started-at="2023-02-17T07:26:27 PST" name="updatecustomer" finished-at="2023-02-17T07:26:30 PST" duration-ms="3641" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- updatecustomer -->
+      </class> <!-- com.gorestapi.com.putandpatch -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
